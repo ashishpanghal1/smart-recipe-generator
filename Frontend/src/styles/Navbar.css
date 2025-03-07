@@ -1,0 +1,18 @@
+.navbar {
+    display: flex;
+    gap: 15px;
+    padding: 10px;
+    background-color: #222;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+  }
+  
+  .navbar a.active {
+    color: #ff6b6b;
+    font-weight: bold;
+  }
+  
